@@ -1,0 +1,2 @@
+# TypeDoc-project
+Learning TypeDoc
